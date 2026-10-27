@@ -653,30 +653,6 @@ code, .inline-code {
   font-size: 0.82rem;
 }
 
-.auth-specs-card {
-  margin-top: 16px;
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-.specs-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 12px;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid var(--border-subtle);
-  border-radius: 999px;
-  font-size: 0.78rem;
-  color: var(--text-secondary);
-}
-.specs-dot {
-  width: 6px;
-  height: 6px;
-  background: var(--accent-cyan);
-  border-radius: 50%;
-}
 
 /* ==========================================================================
    MAIN APPLICATION SHELL (LAYOUT)
