@@ -160,16 +160,5 @@ Or connect the GitHub repository to Vercel and every push to `main` deploys auto
 
 ---
 
-## 🤝 Contributing
-
-Issues and pull requests are welcome. For larger changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file (for example MIT) to define how others may use this project.
-
----
 
 <p align="center">Built by <a href="https://github.com/nilancy04">@nilancy04</a></p>
